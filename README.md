@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi, I am ErfanZadsoltani,
+Master’s student in Software Engineering at Tabriz University (GPA: 17.9), passionate about programming, web development, and problem-solving. Experienced in backend development, secure coding practices, and collaborative team environments. Currently a developer at Hamkaran System Company, contributing to impactful projects and continuously refining my skills.
 
 <!--
 **erfanzadsoltani/ErfanZadsoltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
